@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Amir Guliyev  
 
-🎓 **Computer Science Student** at [King’s College London (KCL)](https://www.kcl.ac.uk)  
-💡 **Full-Stack Developer | Researcher | Problem Solver**  
-📍 Based in **London, United Kingdom** & **Baku, Azerbaijan**
-🌐 **Personal Website** at [guliyev.az](https://www.guliyev.az)
+🎓 **Computer Science Student** at [King’s College London (KCL)](https://www.kcl.ac.uk)\
+💡 **Full-Stack Developer | Researcher | Problem Solver**\
+📍 Based in **London, United Kingdom** & **Baku, Azerbaijan**\
+🌐 **Personal Website** [Guliyev.az](https://www.guliyev.az)
 
 ---
 
